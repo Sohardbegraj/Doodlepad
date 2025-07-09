@@ -1,0 +1,2 @@
+
+c4e5fae5e6ce8b1200df37363b83a756b12d2e0d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/flatted","integrity":null,"time":1751208040105,"size":"0","metadata":{"time":1751208040105,"url":"http://registry.npmjs.org/flatted","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:39 GMT","location":"https://registry.npmjs.org/flatted","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+0dc468b93f91ff88b7b6076a8d30494c226a303c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/yallist","integrity":null,"time":1751208027906,"size":"0","metadata":{"time":1751208027906,"url":"http://registry.npmjs.org/yallist","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:26 GMT","location":"https://registry.npmjs.org/yallist","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

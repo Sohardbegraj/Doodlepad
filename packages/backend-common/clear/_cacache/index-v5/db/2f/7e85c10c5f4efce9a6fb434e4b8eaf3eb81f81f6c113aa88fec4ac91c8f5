@@ -1,0 +1,2 @@
+
+336e64d0c6f58b3f4fd3c91aa7542e64e7204f2b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/acorn","integrity":null,"time":1750847731036,"size":"0","metadata":{"time":1750847731036,"url":"http://registry.npmjs.org/acorn","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 10:35:30 GMT","location":"https://registry.npmjs.org/acorn","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

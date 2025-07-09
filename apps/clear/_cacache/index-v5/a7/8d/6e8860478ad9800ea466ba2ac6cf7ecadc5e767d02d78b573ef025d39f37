@@ -1,0 +1,2 @@
+
+2f71cdcb35e273a97ec1f4dccb18f9fa6babcb7f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/es-errors","integrity":null,"time":1751208037048,"size":"0","metadata":{"time":1751208037048,"url":"http://registry.npmjs.org/es-errors","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:35 GMT","location":"https://registry.npmjs.org/es-errors","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

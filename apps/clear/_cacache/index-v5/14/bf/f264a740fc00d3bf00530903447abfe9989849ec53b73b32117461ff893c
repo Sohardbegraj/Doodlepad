@@ -1,0 +1,2 @@
+
+3c44d2d35b660459120b23841726f49d9be27ea4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/tar","integrity":null,"time":1751208025999,"size":"0","metadata":{"time":1751208025999,"url":"http://registry.npmjs.org/tar","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:24 GMT","location":"https://registry.npmjs.org/tar","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+a4e0d22c22097386c06b0582bdb8e7206a09e97d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@img%2fsharp-win32-ia32","integrity":null,"time":1751208041865,"size":"0","metadata":{"time":1751208041865,"url":"http://registry.npmjs.org/@img%2fsharp-win32-ia32","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:40 GMT","location":"https://registry.npmjs.org/@img%2Fsharp-win32-ia32","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

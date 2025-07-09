@@ -1,0 +1,2 @@
+
+717ce7fffc61bd88969463c52d11752da9a4ec44	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/color-string","integrity":null,"time":1751208043217,"size":"0","metadata":{"time":1751208043216,"url":"http://registry.npmjs.org/color-string","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:42 GMT","location":"https://registry.npmjs.org/color-string","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

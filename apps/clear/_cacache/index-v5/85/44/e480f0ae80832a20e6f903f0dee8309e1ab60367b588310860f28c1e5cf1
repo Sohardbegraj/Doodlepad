@@ -1,0 +1,2 @@
+
+acde72ebf1d5c490c74284048944d9d8e9a91697	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/to-regex-range","integrity":null,"time":1751208041417,"size":"0","metadata":{"time":1751208041417,"url":"http://registry.npmjs.org/to-regex-range","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:40 GMT","location":"https://registry.npmjs.org/to-regex-range","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

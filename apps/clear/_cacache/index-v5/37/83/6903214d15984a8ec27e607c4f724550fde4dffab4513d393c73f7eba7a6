@@ -1,0 +1,2 @@
+
+d92a5b688b536dd4d00670db90e125a7a8c338fd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-weakmap","integrity":null,"time":1751208045852,"size":"0","metadata":{"time":1751208045851,"url":"http://registry.npmjs.org/is-weakmap","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:44 GMT","location":"https://registry.npmjs.org/is-weakmap","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

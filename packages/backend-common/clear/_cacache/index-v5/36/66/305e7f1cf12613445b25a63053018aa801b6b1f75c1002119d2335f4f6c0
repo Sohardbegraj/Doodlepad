@@ -1,0 +1,2 @@
+
+7ba2807fbb26663e31f4972a82347c3dc37ff9fd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/diff/-/diff-4.0.2.tgz","integrity":null,"time":1750847732180,"size":"0","metadata":{"time":1750847732180,"url":"http://registry.npmjs.org/diff/-/diff-4.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 10:35:31 GMT","location":"https://registry.npmjs.org/diff/-/diff-4.0.2.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

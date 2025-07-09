@@ -1,0 +1,2 @@
+
+d1b3f4308a16a305f1f1b0acecc481101d096c5b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/uri-js","integrity":null,"time":1751208025726,"size":"0","metadata":{"time":1751208025726,"url":"http://registry.npmjs.org/uri-js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:24 GMT","location":"https://registry.npmjs.org/uri-js","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

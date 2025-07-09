@@ -1,0 +1,2 @@
+
+df6060db3874d64b81edfe799fa1a2cafefa272f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/resolve/-/resolve-2.0.0-next.5.tgz","integrity":null,"time":1751208053460,"size":"0","metadata":{"time":1751208053460,"url":"http://registry.npmjs.org/resolve/-/resolve-2.0.0-next.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:52 GMT","location":"https://registry.npmjs.org/resolve/-/resolve-2.0.0-next.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

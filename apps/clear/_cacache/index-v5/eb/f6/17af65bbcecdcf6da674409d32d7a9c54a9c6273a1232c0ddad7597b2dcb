@@ -1,0 +1,2 @@
+
+eee7335bc1e39a335df8ced1212330a034141c6e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/braces","integrity":null,"time":1751208039521,"size":"0","metadata":{"time":1751208039521,"url":"http://registry.npmjs.org/braces","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:38 GMT","location":"https://registry.npmjs.org/braces","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+b75ce2ba58d92e36b6ebe5ce57948df53070abc2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@nolyfill%2fis-core-module","integrity":null,"time":1751208031709,"size":"0","metadata":{"time":1751208031709,"url":"http://registry.npmjs.org/@nolyfill%2fis-core-module","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:30 GMT","location":"https://registry.npmjs.org/@nolyfill%2Fis-core-module","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

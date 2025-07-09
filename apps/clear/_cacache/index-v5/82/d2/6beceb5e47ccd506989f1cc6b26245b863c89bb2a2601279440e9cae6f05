@@ -1,0 +1,2 @@
+
+20f237ee1b72c8c32b4f7948d03c9b10e35b10b2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/damerau-levenshtein","integrity":null,"time":1751208033188,"size":"0","metadata":{"time":1751208033188,"url":"http://registry.npmjs.org/damerau-levenshtein","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:32 GMT","location":"https://registry.npmjs.org/damerau-levenshtein","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

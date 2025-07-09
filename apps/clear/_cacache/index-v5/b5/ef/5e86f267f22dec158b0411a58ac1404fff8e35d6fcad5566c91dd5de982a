@@ -1,0 +1,2 @@
+
+43422c8776bab43a6294eee01f7bf2477df2eb8d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@img%2fsharp-linux-arm64","integrity":null,"time":1751208042013,"size":"0","metadata":{"time":1751208042013,"url":"http://registry.npmjs.org/@img%2fsharp-linux-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:40 GMT","location":"https://registry.npmjs.org/@img%2Fsharp-linux-arm64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+094088db5e0202c5dbc423c777e419d2bf9039eb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ansi-regex","integrity":null,"time":1750840149198,"size":"0","metadata":{"time":1750840149198,"url":"http://registry.npmjs.org/ansi-regex","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 08:29:08 GMT","location":"https://registry.npmjs.org/ansi-regex","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

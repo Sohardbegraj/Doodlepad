@@ -1,0 +1,2 @@
+
+9661af8d6e14cc017d6c6cdaf7fbc6f85a49541e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/framer-motion","integrity":null,"time":1751210163417,"size":"0","metadata":{"time":1751210163416,"url":"http://registry.npmjs.org/framer-motion","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 15:16:02 GMT","location":"https://registry.npmjs.org/framer-motion","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

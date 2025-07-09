@@ -1,0 +1,2 @@
+
+6bca1b7364580251aa811b75fde103a4559f95f2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/os-tmpdir","integrity":null,"time":1750840148827,"size":"0","metadata":{"time":1750840148826,"url":"http://registry.npmjs.org/os-tmpdir","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 08:29:08 GMT","location":"https://registry.npmjs.org/os-tmpdir","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

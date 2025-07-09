@@ -1,0 +1,2 @@
+
+b825ec2e9f3e1db0326635ae17d012ee75cab9f9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@tsconfig/node12/-/node12-1.0.11.tgz","integrity":null,"time":1750847732242,"size":"0","metadata":{"time":1750847732241,"url":"http://registry.npmjs.org/@tsconfig/node12/-/node12-1.0.11.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 10:35:31 GMT","location":"https://registry.npmjs.org/@tsconfig/node12/-/node12-1.0.11.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

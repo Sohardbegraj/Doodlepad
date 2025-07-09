@@ -1,0 +1,2 @@
+
+2d73e11e177681308a8090dc2206405e7b2ca1fd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/es-set-tostringtag","integrity":null,"time":1751208037677,"size":"0","metadata":{"time":1751208037677,"url":"http://registry.npmjs.org/es-set-tostringtag","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:36 GMT","location":"https://registry.npmjs.org/es-set-tostringtag","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

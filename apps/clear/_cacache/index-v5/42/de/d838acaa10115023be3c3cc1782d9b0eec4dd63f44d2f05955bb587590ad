@@ -1,0 +1,2 @@
+
+ee8ad4fe23b22ef30300d5367afd7b577793c9c4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/aria-query","integrity":null,"time":1751208032959,"size":"0","metadata":{"time":1751208032959,"url":"http://registry.npmjs.org/aria-query","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:31 GMT","location":"https://registry.npmjs.org/aria-query","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

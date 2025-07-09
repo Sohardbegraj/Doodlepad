@@ -1,0 +1,78 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.17.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\.npmrc
+5 silly config load:file:C:\Users\sohar\.npmrc
+6 silly config load:file:C:\Users\sohar\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec create-next-app
+8 verbose argv "exec" "--" "create-next-app"
+9 verbose logfile logs-max:10 dir:C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\apps\clear\_logs\2025-06-29T14_38_29_075Z-
+10 verbose logfile C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\apps\clear\_logs\2025-06-29T14_38_29_075Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 http fetch GET 200 https://registry.npmjs.org/npm 935ms
+14 http fetch GET 200 https://registry.npmjs.org/create-next-app 551ms (cache miss)
+15 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+16 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+17 silly idealTree buildDeps
+18 silly fetch manifest create-next-app@15.3.4
+19 silly packumentCache full:http://registry.npmjs.org/create-next-app cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/create-next-app 450ms (cache miss)
+21 silly packumentCache full:http://registry.npmjs.org/create-next-app set size:undefined disposed:false
+22 silly placeDep ROOT create-next-app@15.3.4 OK for:  want: 15.3.4
+23 silly reify moves {}
+24 silly audit bulk request { 'create-next-app': [ '15.3.4' ] }
+25 http cache create-next-app@http://registry.npmjs.org/create-next-app/-/create-next-app-15.3.4.tgz 1ms (cache hit)
+26 silly tarball no local data for create-next-app@http://registry.npmjs.org/create-next-app/-/create-next-app-15.3.4.tgz. Extracting by manifest.
+27 notice Beginning October 4, 2021, all connections to the npm registry - including for package installation - must use TLS 1.2 or higher. You are currently using plaintext http to connect. Please visit the GitHub blog for more information: https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/
+28 http fetch POST 426 http://registry.npmjs.org/-/npm/v1/security/advisories/bulk 92ms
+29 silly audit bulk request failed Beginning October 4, 2021, all connections to npm websites and the npm registry - including for package installation - must use HTTPS and TLS 1.2 or higher.
+29 silly audit
+29 silly audit For more information see this blog post: https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/
+30 notice Beginning October 4, 2021, all connections to the npm registry - including for package installation - must use TLS 1.2 or higher. You are currently using plaintext http to connect. Please visit the GitHub blog for more information: https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/
+31 http fetch POST 426 http://registry.npmjs.org/-/npm/v1/security/audits/quick 84ms
+32 verbose audit error HttpErrorGeneral: 426 Upgrade Required - POST http://registry.npmjs.org/-/npm/v1/security/audits/quick
+32 verbose audit error     at C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-fetch\lib\check-response.js:103:15
+32 verbose audit error     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+32 verbose audit error     at async [getReport] (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:336:21)
+32 verbose audit error     at async AuditReport.run (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:106:19) {
+32 verbose audit error   headers: [Object: null prototype] {
+32 verbose audit error     date: [ 'Sun, 29 Jun 2025 14:38:36 GMT' ],
+32 verbose audit error     'content-type': [ 'text/plain' ],
+32 verbose audit error     'content-length': [ '271' ],
+32 verbose audit error     connection: [ 'keep-alive' ],
+32 verbose audit error     'cf-ray': [ '95762b230dd147b5-BOM' ],
+32 verbose audit error     'npm-notice': [
+32 verbose audit error       'Beginning October 4, 2021, all connections to the npm registry - including for package installation - must use TLS 1.2 or higher. You are currently using plaintext http to connect. Please visit the GitHub blog for more information: https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/'
+32 verbose audit error     ],
+32 verbose audit error     vary: [ 'Accept-Encoding' ],
+32 verbose audit error     'set-cookie': [
+32 verbose audit error       '_cfuvid=0.I4bpTDxJcMjsarj38A6TKmklDs6Vyv4rCL23u5wms-1751207916022-0.0.1.1-604800000; path=/; domain=.npmjs.org; HttpOnly'
+32 verbose audit error     ],
+32 verbose audit error     server: [ 'cloudflare' ],
+32 verbose audit error     'x-fetch-attempts': [ '1' ]
+32 verbose audit error   },
+32 verbose audit error   statusCode: 426,
+32 verbose audit error   code: 'E426',
+32 verbose audit error   method: 'POST',
+32 verbose audit error   uri: 'http://registry.npmjs.org/-/npm/v1/security/audits/quick',
+32 verbose audit error   body: <Buffer 42 65 67 69 6e 6e 69 6e 67 20 4f 63 74 6f 62 65 72 20 34 2c 20 32 30 32 31 2c 20 61 6c 6c 20 63 6f 6e 6e 65 63 74 69 6f 6e 73 20 74 6f 20 6e 70 6d 20 ... 221 more bytes>,
+32 verbose audit error   pkgid: undefined
+32 verbose audit error }
+33 silly audit error Beginning October 4, 2021, all connections to npm websites and the npm registry - including for package installation - must use HTTPS and TLS 1.2 or higher.
+33 silly audit error
+33 silly audit error For more information see this blog post: https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/
+34 silly audit report null
+35 http fetch GET 200 https://registry.npmjs.org/create-next-app/-/create-next-app-15.3.4.tgz 1041ms (cache miss)
+36 verbose cwd C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\apps
+37 verbose os Windows_NT 10.0.26100
+38 verbose node v22.17.0
+39 verbose npm  v10.9.2
+40 notice
+40 notice New [31mmajor[39m version of npm available! [31m10.9.2[39m -> [34m11.4.2[39m
+40 notice Changelog: [34mhttps://github.com/npm/cli/releases/tag/v11.4.2[39m
+40 notice To update run: [4mnpm install -g npm@11.4.2[24m
+40 notice  { force: true, [Symbol(proc-log.meta)]: true }
+41 verbose exit 0
+42 info ok

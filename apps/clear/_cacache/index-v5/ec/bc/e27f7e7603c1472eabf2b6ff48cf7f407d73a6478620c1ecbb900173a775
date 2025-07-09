@@ -1,0 +1,2 @@
+
+349017e4160e94214cf48777d8313d097bfeff25	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@next%2fswc-linux-x64-gnu","integrity":null,"time":1751208022852,"size":"0","metadata":{"time":1751208022852,"url":"http://registry.npmjs.org/@next%2fswc-linux-x64-gnu","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:21 GMT","location":"https://registry.npmjs.org/@next%2Fswc-linux-x64-gnu","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

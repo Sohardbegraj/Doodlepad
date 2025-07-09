@@ -1,0 +1,2 @@
+
+9cf2801c9487df0f39f675843aaf8632536d4f45	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@nodelib%2ffs.scandir","integrity":null,"time":1751208039511,"size":"0","metadata":{"time":1751208039511,"url":"http://registry.npmjs.org/@nodelib%2ffs.scandir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:38 GMT","location":"https://registry.npmjs.org/@nodelib%2Ffs.scandir","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

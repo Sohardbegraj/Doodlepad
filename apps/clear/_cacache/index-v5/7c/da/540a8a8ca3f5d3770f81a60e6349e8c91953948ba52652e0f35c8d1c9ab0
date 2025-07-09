@@ -1,0 +1,2 @@
+
+89ed15eecb3bc5df7fe7122c296f26a6e05d6751	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/eslint-plugin-react-hooks","integrity":null,"time":1751208021942,"size":"0","metadata":{"time":1751208021942,"url":"http://registry.npmjs.org/eslint-plugin-react-hooks","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:20 GMT","location":"https://registry.npmjs.org/eslint-plugin-react-hooks","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

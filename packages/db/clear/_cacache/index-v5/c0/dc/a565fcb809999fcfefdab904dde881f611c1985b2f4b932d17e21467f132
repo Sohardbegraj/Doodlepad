@@ -1,0 +1,2 @@
+
+d241fae26185b028fd53073311bf0893a32e1552	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/mute-stream/-/mute-stream-2.0.0.tgz","integrity":null,"time":1750840151446,"size":"0","metadata":{"time":1750840151446,"url":"http://registry.npmjs.org/mute-stream/-/mute-stream-2.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 08:29:10 GMT","location":"https://registry.npmjs.org/mute-stream/-/mute-stream-2.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

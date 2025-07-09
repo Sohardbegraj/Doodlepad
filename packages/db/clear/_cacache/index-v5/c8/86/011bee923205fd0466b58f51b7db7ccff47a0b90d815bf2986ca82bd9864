@@ -1,0 +1,2 @@
+
+95412e4dd4421c1a8213425c6b928dd643c41b10	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/xdg-app-paths/-/xdg-app-paths-8.3.0.tgz","integrity":null,"time":1750840151544,"size":"0","metadata":{"time":1750840151544,"url":"http://registry.npmjs.org/xdg-app-paths/-/xdg-app-paths-8.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 08:29:11 GMT","location":"https://registry.npmjs.org/xdg-app-paths/-/xdg-app-paths-8.3.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+4f957a5ce4cd2ea9972b65ba7f4abb823760aab5	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@img%2fsharp-darwin-x64","integrity":null,"time":1751208041862,"size":"0","metadata":{"time":1751208041862,"url":"http://registry.npmjs.org/@img%2fsharp-darwin-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:40 GMT","location":"https://registry.npmjs.org/@img%2Fsharp-darwin-x64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

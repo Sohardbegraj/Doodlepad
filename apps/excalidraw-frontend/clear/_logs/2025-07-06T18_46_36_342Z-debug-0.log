@@ -1,0 +1,50 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.17.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\apps\excalidraw-frontend\.npmrc
+5 silly config load:file:C:\Users\sohar\.npmrc
+6 silly config load:file:C:\Users\sohar\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install motion @tsparticles/react @tsparticles/engine @tsparticles/slim
+8 verbose argv "install" "motion" "@tsparticles/react" "@tsparticles/engine" "@tsparticles/slim"
+9 verbose logfile logs-max:10 dir:C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\apps\excalidraw-frontend\clear\_logs\2025-07-06T18_46_36_342Z-
+10 verbose logfile C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\apps\excalidraw-frontend\clear\_logs\2025-07-06T18_46_36_342Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly logfile done cleaning log files
+14 silly idealTree buildDeps
+15 silly fetch manifest @react-three/fiber@^9.2.0
+16 silly packumentCache full:http://registry.npmjs.org/@react-three%2ffiber cache-miss
+17 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+18 http fetch GET 200 https://registry.npmjs.org/npm 992ms
+19 http fetch GET 200 https://registry.npmjs.org/@react-three%2Ffiber 932ms (cache miss)
+20 silly packumentCache full:http://registry.npmjs.org/@react-three%2ffiber set size:undefined disposed:false
+21 verbose stack Error: Unsupported URL Type "workspace:": workspace:*
+21 verbose stack     at unsupportedURLType (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-package-arg\lib\npa.js:310:15)
+21 verbose stack     at fromURL (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-package-arg\lib\npa.js:367:13)
+21 verbose stack     at Function.resolve (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-package-arg\lib\npa.js:83:12)
+21 verbose stack     at #nodeFromEdge (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:1039:22)
+21 verbose stack     at #buildDepStep (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:904:35)
+21 verbose stack     at async Arborist.buildIdealTree (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:181:7)
+21 verbose stack     at async Promise.all (index 1)
+21 verbose stack     at async Arborist.reify (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\reify.js:131:5)
+21 verbose stack     at async Install.exec (C:\Program Files\nodejs\node_modules\npm\lib\commands\install.js:150:5)
+21 verbose stack     at async Npm.exec (C:\Program Files\nodejs\node_modules\npm\lib\npm.js:207:9)
+22 error code EUNSUPPORTEDPROTOCOL
+23 error Unsupported URL Type "workspace:": workspace:*
+24 silly unfinished npm timer reify 1751827598032
+25 silly unfinished npm timer reify:loadTrees 1751827598035
+26 silly unfinished npm timer idealTree:buildDeps 1751827598342
+27 silly unfinished npm timer idealTree:#root 1751827598343
+28 verbose cwd C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\apps\excalidraw-frontend
+29 verbose os Windows_NT 10.0.26100
+30 verbose node v22.17.0
+31 verbose npm  v10.9.2
+32 notice
+32 notice New major version of npm available! 10.9.2 -> 11.4.2
+32 notice Changelog: https://github.com/npm/cli/releases/tag/v11.4.2
+32 notice To update run: npm install -g npm@11.4.2
+32 notice  { force: true, [Symbol(proc-log.meta)]: true }
+33 verbose exit 1
+34 verbose code 1
+35 error A complete log of this run can be found in: C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\apps\excalidraw-frontend\clear\_logs\2025-07-06T18_46_36_342Z-debug-0.log

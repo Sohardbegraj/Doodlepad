@@ -1,0 +1,58 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@9.8.1
+2 info using node@v18.18.1
+3 timing npm:load:whichnode Completed in 3ms
+4 timing config:load:defaults Completed in 3ms
+5 timing config:load:file:C:\Program Files\nodejs\node_modules\npm\npmrc Completed in 6ms
+6 timing config:load:builtin Completed in 7ms
+7 timing config:load:cli Completed in 4ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:c:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\packages\db\.npmrc Completed in 1ms
+10 timing config:load:project Completed in 5ms
+11 timing config:load:file:C:\Users\sohar\.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:C:\Users\sohar\AppData\Roaming\npm\etc\npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 23ms
+17 timing npm:load:configload Completed in 25ms
+18 timing config:load:flatten Completed in 5ms
+19 timing npm:load:mkdirpcache Completed in 1ms
+20 timing npm:load:mkdirplogs Completed in 0ms
+21 verbose title npm view @repo/typescript-config description dist-tags.latest homepage version time
+22 verbose argv "view" "--json" "--" "@repo/typescript-config" "description" "dist-tags.latest" "homepage" "version" "time"
+23 timing npm:load:setTitle Completed in 2ms
+24 timing npm:load:display Completed in 1ms
+25 verbose logfile logs-max:10 dir:c:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\packages\db\clear\_logs\2025-06-25T08_24_29_812Z-
+26 verbose logfile c:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\packages\db\clear\_logs\2025-06-25T08_24_29_812Z-debug-0.log
+27 timing npm:load:logFile Completed in 20ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 107ms
+31 silly logfile done cleaning log files
+32 http fetch GET 404 https://registry.npmjs.org/@repo%2Ftypescript-config 493ms (cache skip)
+33 timing command:view Completed in 506ms
+34 verbose stack HttpErrorGeneral: 404 Not Found - GET https://registry.npmjs.org/@repo%2Ftypescript-config - Not found
+34 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-fetch\lib\check-response.js:95:15
+34 verbose stack     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+34 verbose stack     at async RegistryFetcher.packument (C:\Program Files\nodejs\node_modules\npm\node_modules\pacote\lib\registry.js:87:19)
+34 verbose stack     at async View.getData (C:\Program Files\nodejs\node_modules\npm\lib\commands\view.js:197:20)
+34 verbose stack     at async View.exec (C:\Program Files\nodejs\node_modules\npm\lib\commands\view.js:105:28)
+34 verbose stack     at async module.exports (C:\Program Files\nodejs\node_modules\npm\lib\cli-entry.js:61:5)
+35 verbose statusCode 404
+36 verbose pkgid @repo/typescript-config@*
+37 verbose cwd c:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\packages\db
+38 verbose Windows_NT 10.0.26100
+39 verbose node v18.18.1
+40 verbose npm  v9.8.1
+41 error code E404
+42 error 404 Not Found - GET https://registry.npmjs.org/@repo%2Ftypescript-config - Not found
+43 error 404
+44 error 404  '@repo/typescript-config@*' is not in this registry.
+45 error 404
+45 error 404 Note that you can also install from a
+46 error 404 tarball, folder, http url, or git url.
+47 verbose exit 1
+48 timing npm Completed in 1002ms
+49 verbose code 1
+50 error A complete log of this run can be found in: c:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\packages\db\clear\_logs\2025-06-25T08_24_29_812Z-debug-0.log

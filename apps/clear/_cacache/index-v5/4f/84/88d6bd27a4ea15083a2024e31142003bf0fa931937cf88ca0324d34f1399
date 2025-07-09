@@ -1,0 +1,2 @@
+
+376c845f856cb12017ea1096d745aa0826ded4eb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/object.groupby","integrity":null,"time":1751208032780,"size":"0","metadata":{"time":1751208032780,"url":"http://registry.npmjs.org/object.groupby","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:31 GMT","location":"https://registry.npmjs.org/object.groupby","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

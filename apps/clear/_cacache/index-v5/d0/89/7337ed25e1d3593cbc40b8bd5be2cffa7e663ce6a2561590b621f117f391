@@ -1,0 +1,2 @@
+
+078fbd58a767e4ed298d8cc1d69729a718c460f9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/typescript","integrity":null,"time":1751208015700,"size":"0","metadata":{"time":1751208015699,"url":"http://registry.npmjs.org/typescript","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:14 GMT","location":"https://registry.npmjs.org/typescript","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

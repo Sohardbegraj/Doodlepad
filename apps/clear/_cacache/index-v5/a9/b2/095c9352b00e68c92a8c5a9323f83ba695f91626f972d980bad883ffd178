@@ -1,0 +1,2 @@
+
+852b8ba09824011548099586a3810ce54b467501	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/undici-types","integrity":null,"time":1751208020885,"size":"0","metadata":{"time":1751208020885,"url":"http://registry.npmjs.org/undici-types","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:19 GMT","location":"https://registry.npmjs.org/undici-types","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

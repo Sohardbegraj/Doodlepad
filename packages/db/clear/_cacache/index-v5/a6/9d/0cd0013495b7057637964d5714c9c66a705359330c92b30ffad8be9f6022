@@ -1,0 +1,2 @@
+
+266fafd5bc93a1915086b8866a34aa2c09d584a2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/chardet/-/chardet-0.7.0.tgz","integrity":null,"time":1750840151215,"size":"0","metadata":{"time":1750840151215,"url":"http://registry.npmjs.org/chardet/-/chardet-0.7.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 08:29:10 GMT","location":"https://registry.npmjs.org/chardet/-/chardet-0.7.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

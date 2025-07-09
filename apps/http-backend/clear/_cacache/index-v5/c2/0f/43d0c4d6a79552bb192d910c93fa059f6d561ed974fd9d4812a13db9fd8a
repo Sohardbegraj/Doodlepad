@@ -1,0 +1,2 @@
+
+afeff8784ab063971f2326e41b71fce7f5b308c9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/express","integrity":null,"time":1751555901509,"size":"0","metadata":{"time":1751555901508,"url":"http://registry.npmjs.org/express","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 03 Jul 2025 15:18:20 GMT","location":"https://registry.npmjs.org/express","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

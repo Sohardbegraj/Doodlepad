@@ -1,0 +1,2 @@
+
+c7fec3e85db2dbc5726d7a0620868304a040ce86	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/data-view-byte-offset","integrity":null,"time":1751208037662,"size":"0","metadata":{"time":1751208037661,"url":"http://registry.npmjs.org/data-view-byte-offset","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:36 GMT","location":"https://registry.npmjs.org/data-view-byte-offset","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

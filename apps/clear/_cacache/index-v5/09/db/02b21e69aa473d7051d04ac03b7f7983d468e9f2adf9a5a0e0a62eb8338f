@@ -1,0 +1,2 @@
+
+5bfcdd7720300437b57ea81f1fe21e79023338c6	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/shebang-command","integrity":null,"time":1751208028376,"size":"0","metadata":{"time":1751208028376,"url":"http://registry.npmjs.org/shebang-command","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:27 GMT","location":"https://registry.npmjs.org/shebang-command","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

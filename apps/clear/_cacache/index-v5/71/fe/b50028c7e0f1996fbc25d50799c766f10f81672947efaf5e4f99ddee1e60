@@ -1,0 +1,2 @@
+
+04ce0e80d8bd20efd24d8b6f647681f07f5fb26f	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@typescript-eslint%2futils","integrity":null,"time":1751208029601,"size":"0","metadata":{"time":1751208029601,"url":"http://registry.npmjs.org/@typescript-eslint%2futils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:28 GMT","location":"https://registry.npmjs.org/@typescript-eslint%2Futils","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

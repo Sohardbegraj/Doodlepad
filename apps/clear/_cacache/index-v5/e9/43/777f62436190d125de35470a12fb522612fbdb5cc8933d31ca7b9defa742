@@ -1,0 +1,2 @@
+
+36e03d1bf408d29538243f781e554421ca538ef2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ast-types-flow","integrity":null,"time":1751208033034,"size":"0","metadata":{"time":1751208033034,"url":"http://registry.npmjs.org/ast-types-flow","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:31 GMT","location":"https://registry.npmjs.org/ast-types-flow","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

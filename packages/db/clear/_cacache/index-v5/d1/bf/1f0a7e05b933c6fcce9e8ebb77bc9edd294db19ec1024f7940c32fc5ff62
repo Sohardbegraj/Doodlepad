@@ -1,0 +1,2 @@
+
+3bb581f2690e5378046a4f316865a20fc2e2386b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/yoctocolors-cjs","integrity":null,"time":1750840145292,"size":"0","metadata":{"time":1750840145291,"url":"http://registry.npmjs.org/yoctocolors-cjs","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 08:29:04 GMT","location":"https://registry.npmjs.org/yoctocolors-cjs","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

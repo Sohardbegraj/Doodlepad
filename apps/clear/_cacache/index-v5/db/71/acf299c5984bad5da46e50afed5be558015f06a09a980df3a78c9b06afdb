@@ -1,0 +1,2 @@
+
+7bed377bb74f70ee98a4982cc271c173361a8a0d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/side-channel-map","integrity":null,"time":1751208040760,"size":"0","metadata":{"time":1751208040760,"url":"http://registry.npmjs.org/side-channel-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:39 GMT","location":"https://registry.npmjs.org/side-channel-map","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

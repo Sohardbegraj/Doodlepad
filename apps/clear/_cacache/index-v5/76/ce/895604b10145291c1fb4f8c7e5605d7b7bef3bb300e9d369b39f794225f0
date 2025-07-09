@@ -1,0 +1,2 @@
+
+1525ebcf07da2f1b708b91b92aa75706ea460e37	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/ts-api-utils","integrity":null,"time":1751208029603,"size":"0","metadata":{"time":1751208029602,"url":"http://registry.npmjs.org/ts-api-utils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:28 GMT","location":"https://registry.npmjs.org/ts-api-utils","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

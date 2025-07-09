@@ -1,0 +1,2 @@
+
+f2d80fc5141fe5bb29b6b4c84251363b0645159e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/signal-exit","integrity":null,"time":1750840145540,"size":"0","metadata":{"time":1750840145539,"url":"http://registry.npmjs.org/signal-exit","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Wed, 25 Jun 2025 08:29:05 GMT","location":"https://registry.npmjs.org/signal-exit","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

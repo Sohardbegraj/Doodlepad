@@ -1,0 +1,2 @@
+
+424d7b0409d19b274953b69f6a424c6b840f7761	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@next%2fswc-win32-x64-msvc","integrity":null,"time":1751208023136,"size":"0","metadata":{"time":1751208023136,"url":"http://registry.npmjs.org/@next%2fswc-win32-x64-msvc","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:22 GMT","location":"https://registry.npmjs.org/@next%2Fswc-win32-x64-msvc","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

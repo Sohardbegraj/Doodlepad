@@ -1,0 +1,46 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@9.8.1
+2 info using node@v18.18.1
+3 timing npm:load:whichnode Completed in 4ms
+4 timing config:load:defaults Completed in 8ms
+5 timing config:load:file:C:\Program Files\nodejs\node_modules\npm\npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 4ms
+7 timing config:load:cli Completed in 4ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\.npmrc Completed in 2ms
+10 timing config:load:project Completed in 4ms
+11 timing config:load:file:C:\Users\sohar\.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:C:\Users\sohar\AppData\Roaming\npm\etc\npmrc Completed in 0ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:setEnvs Completed in 2ms
+16 timing config:load Completed in 26ms
+17 timing npm:load:configload Completed in 26ms
+18 timing config:load:flatten Completed in 6ms
+19 timing npm:load:mkdirpcache Completed in 1ms
+20 timing npm:load:mkdirplogs Completed in 0ms
+21 verbose title npm init
+22 verbose argv "init" "--yes"
+23 timing npm:load:setTitle Completed in 2ms
+24 timing npm:load:display Completed in 1ms
+25 verbose logfile logs-max:10 dir:C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\packages\backend-common\clear\_logs\2025-06-24T11_47_48_954Z-
+26 verbose logfile C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\packages\backend-common\clear\_logs\2025-06-24T11_47_48_954Z-debug-0.log
+27 timing npm:load:logFile Completed in 30ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 126ms
+31 silly logfile done cleaning log files
+32 silly package data {
+32 silly package data   name: 'backend-common',
+32 silly package data   version: '1.0.0',
+32 silly package data   description: '',
+32 silly package data   main: 'index.js',
+32 silly package data   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+32 silly package data   keywords: [],
+32 silly package data   author: '',
+32 silly package data   license: 'ISC'
+32 silly package data }
+33 timing command:init Completed in 96ms
+34 verbose exit 0
+35 timing npm Completed in 1125ms
+36 info ok

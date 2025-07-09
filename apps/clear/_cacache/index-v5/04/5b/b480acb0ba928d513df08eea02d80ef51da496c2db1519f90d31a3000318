@@ -1,0 +1,2 @@
+
+cc476c46f8a9578d43961c68bc4b9e3954954bdf	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/is-extglob","integrity":null,"time":1751208028752,"size":"0","metadata":{"time":1751208028752,"url":"http://registry.npmjs.org/is-extglob","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Sun, 29 Jun 2025 14:40:27 GMT","location":"https://registry.npmjs.org/is-extglob","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
