@@ -94,7 +94,13 @@ Contributions are welcome! Please open issues or pull requests for bug fixes, fe
 
 ---
 
-![chatroom](.135054.png)
+![chatroom](.signin.png)
+![chatroom](.signup.png)
+![chatroom](.home.png)
+![chatroom](.dashboard.png)
+![chatroom](.join.png)
+![chatroom](.create.png)
+![chatroom](.canvas.png)
 
 ## 📄 License
 
