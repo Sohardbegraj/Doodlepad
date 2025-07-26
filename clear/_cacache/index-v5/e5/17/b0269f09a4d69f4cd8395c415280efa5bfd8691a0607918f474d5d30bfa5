@@ -1,0 +1,2 @@
+
+1e3c54a7d7140ce69cf6ab14a58cbccc4c31a9da	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/json5/-/json5-2.2.3.tgz","integrity":null,"time":1752778663117,"size":"0","metadata":{"time":1752778663117,"url":"http://registry.npmjs.org/json5/-/json5-2.2.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:42 GMT","location":"https://registry.npmjs.org/json5/-/json5-2.2.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

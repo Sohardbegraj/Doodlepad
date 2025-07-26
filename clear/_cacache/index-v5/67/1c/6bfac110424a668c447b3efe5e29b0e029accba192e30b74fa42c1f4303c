@@ -1,0 +1,2 @@
+
+a6f548303c4aa39cd6d3f80ced30c869a918a5a9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/default-browser/-/default-browser-4.0.0.tgz","integrity":null,"time":1752778931445,"size":"0","metadata":{"time":1752778931445,"url":"http://registry.npmjs.org/default-browser/-/default-browser-4.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:11 GMT","location":"https://registry.npmjs.org/default-browser/-/default-browser-4.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

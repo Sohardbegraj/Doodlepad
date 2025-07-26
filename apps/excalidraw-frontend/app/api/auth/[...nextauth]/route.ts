@@ -60,28 +60,6 @@ const handler = NextAuth({
                 // Attach the user id from token to the session
                 (session.user as any).id = token.id;
                 return session;
-            },
-            async signIn({account,profile}){
-                if(!profile?.email){
-                    throw new Error("no profile");
-                }
-                await prismaClient.user.upsert({
-                    where:{
-                        email:profile?.email,
-                    },
-                    create:{
-                        email: profile?.email,
-                        name: profile?.name ?? "",
-                        password: "", // Set a default or random password for OAuth users
-                        photo: profile?.image || ""
-                    },
-                    update:{
-                        name: profile.name ?? "",
-                        photo: profile?.image || ""
-                    },
-
-                });
-                return true;
             }
         },
         pages:{

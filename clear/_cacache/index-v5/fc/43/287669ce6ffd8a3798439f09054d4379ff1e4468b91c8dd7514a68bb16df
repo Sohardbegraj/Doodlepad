@@ -1,0 +1,2 @@
+
+ed56578b5418d8661fcf41167950788e7e4164cc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@types/prettier/-/prettier-2.7.3.tgz","integrity":null,"time":1752778932947,"size":"0","metadata":{"time":1752778932947,"url":"http://registry.npmjs.org/@types/prettier/-/prettier-2.7.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:12 GMT","location":"https://registry.npmjs.org/@types/prettier/-/prettier-2.7.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

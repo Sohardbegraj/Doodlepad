@@ -1,0 +1,2 @@
+
+37ea1c30e875a7a0de08a829a5df828bb8138595	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pkg-conf/-/pkg-conf-4.0.0.tgz","integrity":null,"time":1752778660429,"size":"0","metadata":{"time":1752778660428,"url":"http://registry.npmjs.org/pkg-conf/-/pkg-conf-4.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:40 GMT","location":"https://registry.npmjs.org/pkg-conf/-/pkg-conf-4.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

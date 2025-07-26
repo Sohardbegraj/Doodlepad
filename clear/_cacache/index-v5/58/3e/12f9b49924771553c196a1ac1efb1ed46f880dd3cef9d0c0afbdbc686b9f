@@ -1,0 +1,2 @@
+
+0158f7302a13174a1ffa59531f1cec01b817af12	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@cspell/dict-en-gb/-/dict-en-gb-1.1.33.tgz","integrity":null,"time":1752778669431,"size":"0","metadata":{"time":1752778669431,"url":"http://registry.npmjs.org/@cspell/dict-en-gb/-/dict-en-gb-1.1.33.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:49 GMT","location":"https://registry.npmjs.org/@cspell/dict-en-gb/-/dict-en-gb-1.1.33.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

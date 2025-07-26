@@ -1,0 +1,2 @@
+
+fc4a1c11ab6ed8d238b4e4dd1d0bfc2da434f32a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz","integrity":null,"time":1752778662780,"size":"0","metadata":{"time":1752778662780,"url":"http://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:42 GMT","location":"https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

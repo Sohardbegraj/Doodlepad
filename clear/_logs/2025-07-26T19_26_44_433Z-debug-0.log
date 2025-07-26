@@ -1,0 +1,47 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\sohar\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.4.2
+2 info using node@v22.17.0
+3 silly config load:file:C:\Users\sohar\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\sohar\.npmrc
+5 silly config load:file:C:\Users\sohar\AppData\Roaming\npm\etc\npmrc
+6 verbose title npm install pnpm@latest-10
+7 verbose argv "install" "--global" "pnpm@latest-10"
+8 verbose logfile logs-max:10 dir:C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\clear\_logs\2025-07-26T19_26_44_433Z-
+9 verbose logfile C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad\clear\_logs\2025-07-26T19_26_44_433Z-debug-0.log
+10 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+11 silly logfile done cleaning log files
+12 silly packumentCache corgi:http://registry.npmjs.org/pnpm cache-miss
+13 http cache https://registry.npmjs.org/pnpm 529ms (cache hit)
+14 silly packumentCache corgi:http://registry.npmjs.org/pnpm set size:1704057 disposed:false
+15 silly idealTree buildDeps
+16 silly fetch manifest pnpm@10.13.1
+17 silly packumentCache full:http://registry.npmjs.org/pnpm cache-miss
+18 http cache https://registry.npmjs.org/pnpm 108ms (cache hit)
+19 silly packumentCache full:http://registry.npmjs.org/pnpm set size:5109310 disposed:false
+20 silly placeDep ROOT pnpm@10.13.1 OK for:  want: 10.13.1
+21 silly reify mark retired [
+21 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\node_modules\\pnpm',
+21 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpm',
+21 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpm.cmd',
+21 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpm.ps1',
+21 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpx',
+21 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpx.cmd',
+21 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpx.ps1'
+21 silly reify ]
+22 silly reify moves {
+22 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\node_modules\\pnpm': 'C:\\Users\\sohar\\AppData\\Roaming\\npm\\node_modules\\.pnpm-2t4Zzjpg',
+22 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpm': 'C:\\Users\\sohar\\AppData\\Roaming\\npm\\.pnpm-UeuWs64w',
+22 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpm.cmd': 'C:\\Users\\sohar\\AppData\\Roaming\\npm\\.pnpm.cmd-uJxORpQ5',
+22 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpm.ps1': 'C:\\Users\\sohar\\AppData\\Roaming\\npm\\.pnpm.ps1-z8soUnHD',
+22 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpx': 'C:\\Users\\sohar\\AppData\\Roaming\\npm\\.pnpx-TtaO4VKd',
+22 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpx.cmd': 'C:\\Users\\sohar\\AppData\\Roaming\\npm\\.pnpx.cmd-fMorsPdq',
+22 silly reify   'C:\\Users\\sohar\\AppData\\Roaming\\npm\\pnpx.ps1': 'C:\\Users\\sohar\\AppData\\Roaming\\npm\\.pnpx.ps1-cDcIOgbG'
+22 silly reify }
+23 http cache pnpm@https://registry.npmjs.org/pnpm/-/pnpm-10.13.1.tgz 0ms (cache hit)
+24 silly CHANGE node_modules/pnpm
+25 verbose cwd C:\Users\sohar\OneDrive\Desktop\doodlepad\doodlepad
+26 verbose os Windows_NT 10.0.26100
+27 verbose node v22.17.0
+28 verbose npm  v11.4.2
+29 verbose exit 0
+30 info ok

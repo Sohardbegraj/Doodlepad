@@ -1,0 +1,2 @@
+
+83ab1c5b7369a4ea0434b62f16caff123110efd0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/es6-iterator/-/es6-iterator-2.0.3.tgz","integrity":null,"time":1752778931104,"size":"0","metadata":{"time":1752778931103,"url":"http://registry.npmjs.org/es6-iterator/-/es6-iterator-2.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:10 GMT","location":"https://registry.npmjs.org/es6-iterator/-/es6-iterator-2.0.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

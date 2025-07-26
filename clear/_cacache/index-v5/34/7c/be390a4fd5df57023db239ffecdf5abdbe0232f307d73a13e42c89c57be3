@@ -1,0 +1,2 @@
+
+142c580fb752fc5426bce7531de7252b9a3c0423	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pako/-/pako-1.0.11.tgz","integrity":null,"time":1752778660742,"size":"0","metadata":{"time":1752778660741,"url":"http://registry.npmjs.org/pako/-/pako-1.0.11.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:40 GMT","location":"https://registry.npmjs.org/pako/-/pako-1.0.11.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

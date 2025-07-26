@@ -1,0 +1,2 @@
+
+2ab81a2dcd94121c4bfe13be29c9cd8b4dd0747e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/http2-wrapper/-/http2-wrapper-1.0.3.tgz","integrity":null,"time":1752778663669,"size":"0","metadata":{"time":1752778663669,"url":"http://registry.npmjs.org/http2-wrapper/-/http2-wrapper-1.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:43 GMT","location":"https://registry.npmjs.org/http2-wrapper/-/http2-wrapper-1.0.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

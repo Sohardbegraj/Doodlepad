@@ -1,0 +1,2 @@
+
+0bd7b75d4002d069e652519c5afde591c70b36b4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/yargs/-/yargs-17.7.1.tgz","integrity":null,"time":1752778659084,"size":"0","metadata":{"time":1752778659084,"url":"http://registry.npmjs.org/yargs/-/yargs-17.7.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:38 GMT","location":"https://registry.npmjs.org/yargs/-/yargs-17.7.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

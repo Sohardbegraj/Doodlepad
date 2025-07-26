@@ -1,0 +1,2 @@
+
+e72be9fdb9b9ab74790eadd400549f65fc49f1eb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/acorn-walk/-/acorn-walk-8.3.0.tgz","integrity":null,"time":1752778932641,"size":"0","metadata":{"time":1752778932641,"url":"http://registry.npmjs.org/acorn-walk/-/acorn-walk-8.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:12 GMT","location":"https://registry.npmjs.org/acorn-walk/-/acorn-walk-8.3.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

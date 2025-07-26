@@ -1,0 +1,2 @@
+
+320d139db69d5eff90d77fccfd35318c14cd40b7	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/semver/-/semver-7.3.7.tgz","integrity":null,"time":1752778664686,"size":"0","metadata":{"time":1752778664686,"url":"http://registry.npmjs.org/semver/-/semver-7.3.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:44 GMT","location":"https://registry.npmjs.org/semver/-/semver-7.3.7.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

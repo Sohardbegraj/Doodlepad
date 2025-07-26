@@ -1,0 +1,2 @@
+
+439b2a25156ccd468b014a3f9734006d70552859	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/bin-version/-/bin-version-6.0.0.tgz","integrity":null,"time":1752778932181,"size":"0","metadata":{"time":1752778932180,"url":"http://registry.npmjs.org/bin-version/-/bin-version-6.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:11 GMT","location":"https://registry.npmjs.org/bin-version/-/bin-version-6.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

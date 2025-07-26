@@ -1,0 +1,2 @@
+
+da1538f8850356d4ac5c260b3106280443e443bb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/css-select/-/css-select-5.1.0.tgz","integrity":null,"time":1752778665984,"size":"0","metadata":{"time":1752778665984,"url":"http://registry.npmjs.org/css-select/-/css-select-5.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:45 GMT","location":"https://registry.npmjs.org/css-select/-/css-select-5.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

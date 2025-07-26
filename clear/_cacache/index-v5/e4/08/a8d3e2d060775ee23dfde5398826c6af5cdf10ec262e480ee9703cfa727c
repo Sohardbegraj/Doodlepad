@@ -1,0 +1,2 @@
+
+b30fa7f6a010fdfc312e4d908498241e69ef10a4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/regexp-tree/-/regexp-tree-0.1.27.tgz","integrity":null,"time":1752778927995,"size":"0","metadata":{"time":1752778927995,"url":"http://registry.npmjs.org/regexp-tree/-/regexp-tree-0.1.27.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:07 GMT","location":"https://registry.npmjs.org/regexp-tree/-/regexp-tree-0.1.27.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

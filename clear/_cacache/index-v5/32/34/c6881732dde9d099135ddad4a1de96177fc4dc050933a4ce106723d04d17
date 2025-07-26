@@ -1,0 +1,2 @@
+
+77bf867d7d519bdbaf446557c2481555be4967b4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/file-type/-/file-type-17.1.6.tgz","integrity":null,"time":1752778930304,"size":"0","metadata":{"time":1752778930303,"url":"http://registry.npmjs.org/file-type/-/file-type-17.1.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:09 GMT","location":"https://registry.npmjs.org/file-type/-/file-type-17.1.6.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

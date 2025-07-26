@@ -1,0 +1,2 @@
+
+e59fda19bf5dfbbf09429e679a8db9c5b6d1b627	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/readable-stream/-/readable-stream-2.3.7.tgz","integrity":null,"time":1752778660121,"size":"0","metadata":{"time":1752778660121,"url":"http://registry.npmjs.org/readable-stream/-/readable-stream-2.3.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:39 GMT","location":"https://registry.npmjs.org/readable-stream/-/readable-stream-2.3.7.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

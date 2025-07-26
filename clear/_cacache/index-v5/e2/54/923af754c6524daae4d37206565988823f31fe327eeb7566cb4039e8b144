@@ -1,0 +1,2 @@
+
+f55110f7cd1db345828608af9a681b0c52144fc3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/espurify/-/espurify-2.1.1.tgz","integrity":null,"time":1752778664538,"size":"0","metadata":{"time":1752778664537,"url":"http://registry.npmjs.org/espurify/-/espurify-2.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:44 GMT","location":"https://registry.npmjs.org/espurify/-/espurify-2.1.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

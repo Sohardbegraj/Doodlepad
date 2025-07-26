@@ -1,0 +1,2 @@
+
+ded90a08633b5cb118b69038770830df8b961628	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/next-tick/-/next-tick-1.1.0.tgz","integrity":null,"time":1752778928580,"size":"0","metadata":{"time":1752778928580,"url":"http://registry.npmjs.org/next-tick/-/next-tick-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:08 GMT","location":"https://registry.npmjs.org/next-tick/-/next-tick-1.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

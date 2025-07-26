@@ -1,0 +1,2 @@
+
+817a6afc49c625b43afb6d5c9beba0ee3f847fca	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz","integrity":null,"time":1752778928198,"size":"0","metadata":{"time":1752778928198,"url":"http://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:07 GMT","location":"https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

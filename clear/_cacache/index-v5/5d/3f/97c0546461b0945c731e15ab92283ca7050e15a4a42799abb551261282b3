@@ -1,0 +1,2 @@
+
+09d331f367c20be1f14280e58554f70cd8bc1dd3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.5.tgz","integrity":null,"time":1752778669187,"size":"0","metadata":{"time":1752778669186,"url":"http://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:49 GMT","location":"https://registry.npmjs.org/@octokit/auth-token/-/auth-token-2.4.5.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

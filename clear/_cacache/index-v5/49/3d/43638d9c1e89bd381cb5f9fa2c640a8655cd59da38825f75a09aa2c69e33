@@ -1,0 +1,2 @@
+
+fd5b7d5b9112e81bae4372e117d4f491328647cd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/get-stdin/-/get-stdin-9.0.0.tgz","integrity":null,"time":1752778928360,"size":"0","metadata":{"time":1752778928360,"url":"http://registry.npmjs.org/get-stdin/-/get-stdin-9.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 19:02:08 GMT","location":"https://registry.npmjs.org/get-stdin/-/get-stdin-9.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

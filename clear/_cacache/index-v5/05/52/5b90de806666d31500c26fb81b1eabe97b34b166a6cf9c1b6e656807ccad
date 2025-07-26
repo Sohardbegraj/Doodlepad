@@ -1,0 +1,2 @@
+
+8b20b955f308c5b5ef01eedeabeaa7f812e10bb2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/jszip/-/jszip-3.10.0.tgz","integrity":null,"time":1752778663122,"size":"0","metadata":{"time":1752778663122,"url":"http://registry.npmjs.org/jszip/-/jszip-3.10.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:42 GMT","location":"https://registry.npmjs.org/jszip/-/jszip-3.10.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

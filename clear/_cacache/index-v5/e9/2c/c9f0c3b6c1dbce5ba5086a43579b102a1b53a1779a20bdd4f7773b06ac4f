@@ -1,0 +1,2 @@
+
+33955e8167f32b276027e1868691daeb9d50dee8	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/colord/-/colord-2.9.3.tgz","integrity":null,"time":1752778667208,"size":"0","metadata":{"time":1752778667208,"url":"http://registry.npmjs.org/colord/-/colord-2.9.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 17 Jul 2025 18:57:46 GMT","location":"https://registry.npmjs.org/colord/-/colord-2.9.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
