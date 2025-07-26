@@ -101,7 +101,6 @@ Contributions are welcome! Please open issues or pull requests for bug fixes, fe
 ![chatroom](join.png)
 ![chatroom](create.png)
 ![chatroom](canvas.png)
-![chatroom](localhost3000.png)
 
 ## 📄 License
 
